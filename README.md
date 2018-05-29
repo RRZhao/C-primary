@@ -1,7 +1,7 @@
 # C# primary
 
-# Ä¿Â¼
+Ä¿Â¼
 
-- [c#¼ò½é]()
+- [¼ò½é](https://github.com/RRZhao/C-sharp-primary/blob/master/Chapter-1-CSharp.md)
 
 
