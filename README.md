@@ -1,7 +1,6 @@
-# C# primary
+# C# 易遗忘概念随笔
 
-目录
-
-- [简介](https://github.com/RRZhao/C-sharp-primary/blob/master/Chapter-1-CSharp.md)
-
-
+1. 构造函数
+2. 抽象类
+3. 接口
+4. 多态
